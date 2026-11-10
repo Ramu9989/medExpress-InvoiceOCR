@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+paddlepaddle
+paddleocr[doc-parser]
+pypdfium2
+Pillow
+opencv-python-headless
